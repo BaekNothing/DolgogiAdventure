@@ -1,8 +1,9 @@
 Library/
 ProjectSettings/
+Font/
+
 Legacy/
 Demigiant/
-Font/
 *.meta
 *.mdp
 
