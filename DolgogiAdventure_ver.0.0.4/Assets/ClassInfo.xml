@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UnitSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UNIT>
+    <ClassCode>Second</ClassCode>
+    <ClassName>DummyClassForMaking</ClassName>
+    <Professor>Mr.Maker</Professor>
+    <Date>2</Date>
+    <Assignments>001111022220</Assignments>
+    <GetStatus>S1I0L0</GetStatus>
+    <GetSkill>S001</GetSkill>
+  </UNIT>
+  <UNIT>
+    <ClassCode>002</ClassCode>
+    <ClassName>DummyClassForIdea</ClassName>
+    <Professor>Mis.Idea</Professor>
+    <Date>4</Date>
+    <Assignments>111112222333</Assignments>
+    <GetStatus>S0I1L0</GetStatus>
+    <GetSkill>S002</GetSkill>
+  </UNIT>
+  <UNIT>
+    <ClassCode>003</ClassCode>
+    <ClassName>DummyClassForLogic</ClassName>
+    <Professor>Ms.Logic</Professor>
+    <Date>5</Date>
+    <Assignments>110022033044</Assignments>
+    <GetStatus>S0I0L1</GetStatus>
+    <GetSkill>S003</GetSkill>
+  </UNIT>
+</UnitSet>

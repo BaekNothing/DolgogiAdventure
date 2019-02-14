@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UnitSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UNIT>
+		<ClassCode>1</ClassCode>
+		<ClassName></ClassName>
+		<Professor></Professor>
+		<Date></Date>
+		<Assignments></Assignments>
+		<GetStatus></GetStatus>
+		<GetSkill></GetSkill>
+	</UNIT>
+	<UNIT>
+		<ClassCode>1</ClassCode>
+		<ClassName></ClassName>
+		<Professor></Professor>
+		<Date></Date>
+		<Assignments></Assignments>
+		<GetStatus></GetStatus>
+		<GetSkill></GetSkill>
+	</UNIT>
+</UnitSet>

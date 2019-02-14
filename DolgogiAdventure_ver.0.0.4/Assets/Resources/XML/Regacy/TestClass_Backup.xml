@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UnitSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UNIT>
+		<ClassName>인터렉션 융합</ClassName>
+		<Professor>양승무</Professor>
+		<Idea>10</Idea>
+		<Logic>5</Logic>
+		<Skill>1</Skill>
+		<Week>금</Week>
+		<Will>2</Will>
+		<Social>4</Social>
+		<Selfego>8</Selfego>
+		<Special>0</Special>
+	</UNIT>
+	<UNIT>
+		<ClassName>인터렉션 스튜디오</ClassName>
+		<Professor>김정훈</Professor>
+		<Idea>5</Idea>
+		<Logic>10</Logic>
+		<Skill>1</Skill>
+		<Week>화</Week>
+		<Will>4</Will>
+		<Social>8</Social>
+		<Selfego>2</Selfego>
+		<Special>0</Special>
+	</UNIT>
+	<UNIT>
+		<ClassName>디지털 미디어</ClassName>
+		<Professor>김정훈</Professor>
+		<Idea>1</Idea>
+		<Logic>5</Logic>
+		<Skill>10</Skill>
+		<Week>목</Week>
+		<Will>8</Will>
+		<Social>2</Social>
+		<Selfego>4</Selfego>
+		<Special>1</Special>
+	</UNIT>
+</UnitSet>

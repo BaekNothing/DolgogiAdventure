@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Test002</LastAuthor>
+  <Created>2018-02-14T11:06:11Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8856</WindowHeight>
+  <WindowWidth>12552</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" x:Family="Modern" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="52.8"
+   ss:DefaultRowHeight="17.399999999999999">
+   <Column ss:AutoFitWidth="0" ss:Width="49.8" ss:Span="1"/>
+   <Row>
+    <Cell><Data ss:Type="String">Voter</Data></Cell>
+    <Cell><Data ss:Type="String">Publisher</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">이수연</Data></Cell>
+    <Cell><Data ss:Type="String">강은주</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">임현지</Data></Cell>
+    <Cell><Data ss:Type="String">오지현</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김규빈</Data></Cell>
+    <Cell><Data ss:Type="String">김휘성</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">신재용</Data></Cell>
+    <Cell><Data ss:Type="String">김규빈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">이수연</Data></Cell>
+    <Cell><Data ss:Type="String">신재용</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김나연</Data></Cell>
+    <Cell><Data ss:Type="String">신재용</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"><xsd:element nillable="true" name="UnitSet"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="UNIT" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Name" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="HP" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="ATK" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="DEF" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="EVI" form="unqualified"></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="UnitSet_맵" x2:SchemaID="Schema1" x2:RootElement="UnitSet">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>Sheet1!R2C1:R7C2</x2:Range>
+    <x2:HeaderRange>R1C1</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/UnitSet/UNIT</x2:XPath>
+    <x2:Field x2:ID="Voter">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>Name</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Publisher">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>HP</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>UnitSet_맵</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">C:\Users\Test002\Desktop\unity\DolgogiAdventure_ver.0.0.4\Assets\Resources\XML\Book1.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>
