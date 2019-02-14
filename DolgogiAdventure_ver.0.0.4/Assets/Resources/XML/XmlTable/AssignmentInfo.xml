@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UnitSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UNIT>
+		<ClassTag>1</ClassTag>
+		<ClassnameForDebug>2 </ClassnameForDebug>
+		<OrderNumber> 3</OrderNumber>
+		<AssignmentTag>4</AssignmentTag>
+		<Skill>5</Skill>
+		<Idea>6</Idea>
+		<Logic>7</Logic>
+	</UNIT>
+	<UNIT>
+		<ClassTag>1</ClassTag>
+		<ClassnameForDebug>2 </ClassnameForDebug>
+		<OrderNumber> 3</OrderNumber>
+		<AssignmentTag>4</AssignmentTag>
+		<Skill>5</Skill>
+		<Idea>6</Idea>
+		<Logic>7</Logic>
+	</UNIT>
+</UnitSet>
