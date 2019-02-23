@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DolgogiAdventureV.0.1.0", "DolgogiAdventureV.0.1.0.csproj", "{90994DD4-0BA1-7291-740E-5BA844A9B8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90994DD4-0BA1-7291-740E-5BA844A9B8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90994DD4-0BA1-7291-740E-5BA844A9B8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90994DD4-0BA1-7291-740E-5BA844A9B8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90994DD4-0BA1-7291-740E-5BA844A9B8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
