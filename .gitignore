@@ -1,8 +1,10 @@
 Library/
 ProjectSettings/
+Font/
+Temp/
 Legacy/
 Demigiant/
-Font/
 *.meta
 *.mdp
+*.cache
 

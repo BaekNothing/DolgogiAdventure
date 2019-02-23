@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UnitSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UNIT>
+		<ClassTag></ClassTag>
+		<ClassnameForDebug></ClassnameForDebug>
+		<MountofAssignment></MountofAssignment>
+		<NowAssignment></NowAssignment>
+		<KindofAssignment></KindofAssignment>
+		<Script></Script>
+		<FreeSpace></FreeSpace>
+	</UNIT>
+	<UNIT>
+		<ClassTag></ClassTag>
+		<ClassnameForDebug></ClassnameForDebug>
+		<MountofAssignment></MountofAssignment>
+		<NowAssignment></NowAssignment>
+		<KindofAssignment></KindofAssignment>
+		<Script></Script>
+		<FreeSpace></FreeSpace>
+	</UNIT>
+	
+</UnitSet>
