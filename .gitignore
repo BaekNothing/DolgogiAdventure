@@ -1,10 +1,13 @@
 Library/
 ProjectSettings/
+vs/
+Font/
+Temp/
 Legacy/
 Demigiant/
-Font/
 *.meta
 *.mdp
+*.cache
 
 DolgogiAdventure_ver.0.0.4/DolgogiAdventure_ver.0.0.4.sln
 DolgogiAdventure_ver.0.0.4/DolgogiAdventure_ver.0.0.4.csproj
