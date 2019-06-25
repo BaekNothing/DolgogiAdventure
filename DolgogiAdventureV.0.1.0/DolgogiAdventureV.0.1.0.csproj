@@ -87,9 +87,9 @@
     <Compile Include="Assets\Scripts\03_School_Assignment\ProtoAssignmentXMLReader.cs" />
     <Compile Include="Assets\Scripts\03_School_Assignment\ProtoClassXMLReader.cs" />
     <Compile Include="Assets\Scripts\CharacterData\CharacterStatus.cs" />
-    <Compile Include="Assets\Scripts\CommonScript\Proto_DontDistory.cs" />
     <Compile Include="Assets\Scripts\CommonScript\Proto_Popup.cs" />
     <Compile Include="Assets\Scripts\CommonScript\Proto_SceneManager.cs" />
+    <Compile Include="Assets\Scripts\CommonScript\Proto_Scenemove.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\XML\ProtoClassData\AssignmentInfo.xml" />
