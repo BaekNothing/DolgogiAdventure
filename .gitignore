@@ -1,3 +1,4 @@
+Legacy/
 Library/
 ProjectSettings/
 vs/
@@ -14,3 +15,4 @@ DolgogiAdventure_ver.0.0.4/DolgogiAdventure_ver.0.0.4.csproj
 DolgogiAdventure_ver.0.0.4/UnityPackageManager/manifest.json
 DolgogiAdventure_ver.0.0.4/DolgogiAdventure_ver.0.0.4.sln
 DolgogiAdventure_ver.0.0.4/DolgogiAdventure_ver.0.0.4.csproj
+*.log
